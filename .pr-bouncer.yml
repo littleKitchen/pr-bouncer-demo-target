@@ -1,0 +1,9 @@
+strictness: medium
+threshold_to_comment: 0
+provider: claude
+model: claude-haiku-4-5
+custom_rules:
+  - "All new code must include real tests, not stubs"
+ignore_authors:
+  - "dependabot[bot]"
+  - "renovate[bot]"
