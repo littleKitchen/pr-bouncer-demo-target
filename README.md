@@ -3,3 +3,5 @@
 Tiny sandbox repository used to demo pr-bouncer comments on pull requests.
 
 The initial code is intentionally boring. Demo PRs can make suspicious claims against this repo without risking a real project.
+
+This branch intentionally tests pr-bouncer's calibration on a small mismatched PR.
